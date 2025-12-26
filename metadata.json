@@ -1,0 +1,5 @@
+{
+  "name": "Portable Gemini Toolit - (Audit Reporter)",
+  "description": "A comprehensive audit tool comparing the Gemini CLI Design Document against the current Batch implementation to highlight missing features and critical gaps.",
+  "requestFramePermissions": []
+}
