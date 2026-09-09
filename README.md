@@ -1,9 +1,9 @@
 # Portable Gemini Toolkit (Audit Reporter)
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![React](https://img.shields.io/badge/React-20232A?style=flat# Portable Gemini Toolkit (Audit Reporter)logo=react# Portable Gemini Toolkit (Audit Reporter)logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat# Portable Gemini Toolkit (Audit Reporter)logo=typescript# Portable Gemini Toolkit (Audit Reporter)logoColor=white) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat# Portable Gemini Toolkit (Audit Reporter)logo=vite# Portable Gemini Toolkit (Audit Reporter)logoColor=FFD62E)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![<a href="https://react.dev/" target="_blank" rel="noopener noreferrer">React</a>](https://img.shields.io/badge/React-20232A?style=flat# Portable Gemini Toolkit (Audit Reporter)logo=react# Portable Gemini Toolkit (Audit Reporter)logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat# Portable Gemini Toolkit (Audit Reporter)logo=typescript# Portable Gemini Toolkit (Audit Reporter)logoColor=white) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat# Portable Gemini Toolkit (Audit Reporter)logo=vite# Portable Gemini Toolkit (Audit Reporter)logoColor=FFD62E)
 
 
-**Gemini CLI audit tool** and interactive dashboard that compares the Gemini CLI design documents against live Batch implementations. It tracks missing features, maps execution gaps, and reads crash logs.
+**<a href="https://ai.google.dev/" target="_blank" rel="noopener noreferrer">Gemini CLI</a> audit tool** and interactive dashboard that compares the Gemini CLI design documents against live Batch implementations. It tracks missing features, maps execution gaps, and reads crash logs.
 
 ## Features
 - **Gap Analysis Viewer**: Side-by-side comparison of the design spec and the active script.
