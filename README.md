@@ -1,6 +1,6 @@
 # Portable Gemini Toolkit (Audit Reporter)
 
-An audit dashboard that compares the Gemini CLI design documents against live Batch implementations. It tracks missing features, maps execution gaps, and reads crash logs.
+**Gemini CLI audit tool** and interactive dashboard that compares the Gemini CLI design documents against live Batch implementations. It tracks missing features, maps execution gaps, and reads crash logs.
 
 ## Features
 - **Gap Analysis Viewer**: Side-by-side comparison of the design spec and the active script.
