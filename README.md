@@ -1,20 +1,34 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Portable Gemini Toolkit (Audit Reporter)
 
-# Run and deploy your AI Studio app
+A comprehensive, interactive audit dashboard built to compare Gemini CLI design documents against live Batch implementations. It visualizes missing features, highlights critical gaps, and reviews crash logs to ensure feature parity and execution stability.
 
-This contains everything you need to run your app locally.
+## Features
+- **Gap Analysis Viewer**: Side-by-side comparison of documented design features versus implemented script reality.
+- **Crash Log Parsing**: Ingests and formats raw debug logs to track execution flows and isolate failure points.
+- **Dynamic Reporting**: Sorts gaps by severity (Critical, Missing, Partial, Implemented).
+- **Static & Secure**: Runs entirely in the browser using React.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1m0Kad_zebiPuV8ayDqv4SH-5ZGnaTlZ3
+## Tech Stack
+- React 19
+- Vite
+- Tailwind CSS
+- TypeScript
 
-## Run Locally
+## Getting Started
 
-**Prerequisites:**  Node.js
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/markkirby125/Portable-Gemini-Toolit.git
+   cd Portable-Gemini-Toolit
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## License
+MIT License
