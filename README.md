@@ -1,12 +1,12 @@
 # Portable Gemini Toolkit (Audit Reporter)
 
-A comprehensive, interactive audit dashboard built to compare Gemini CLI design documents against live Batch implementations. It visualizes missing features, highlights critical gaps, and reviews crash logs to ensure feature parity and execution stability.
+An audit dashboard that compares the Gemini CLI design documents against live Batch implementations. It tracks missing features, maps execution gaps, and reads crash logs.
 
 ## Features
-- **Gap Analysis Viewer**: Side-by-side comparison of documented design features versus implemented script reality.
-- **Crash Log Parsing**: Ingests and formats raw debug logs to track execution flows and isolate failure points.
-- **Dynamic Reporting**: Sorts gaps by severity (Critical, Missing, Partial, Implemented).
-- **Static & Secure**: Runs entirely in the browser using React.
+- **Gap Analysis Viewer**: Side-by-side comparison of the design spec and the active script.
+- **Crash Log Parsing**: Extracts and formats raw debug logs to map the execution flow.
+- **Severity Sorting**: Filters gaps by status (Critical, Missing, Partial, Implemented).
+- **Client-Side Processing**: Runs in the browser without backend telemetry.
 
 ## Tech Stack
 - React 19
